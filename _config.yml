@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Test"
+title                    : "Bertrand Buffat Account"
 title_separator          : "-"
-name                     : &name "Name"
-description              : &description "Description"
+name                     : &name "Bertrand Buffat"
+description              : &description "Personal Description"
 url                      : https://berbuf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "berbuf.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Bertrand Buffat"
-  avatar           : ""
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "profile.png"
+  bio              : "Research student at Tsinghua University"
+  location         : "Beijing"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : ""
+  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,26 +96,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "berbuf"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "BertrandBuffat"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
